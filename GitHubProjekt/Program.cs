@@ -10,7 +10,7 @@ namespace GitHubProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Das ist noch im lokalen Repository");
+            Console.WriteLine("Diese Änderung liegt nun im lokalen und öffentlichen Repository");
 
             Console.ReadKey();
         }
